@@ -1,0 +1,1 @@
+"""Manim scene entry points."""
